@@ -1,0 +1,20 @@
+{
+  "name": "comentarios",
+  "version": "0.0.1",
+  "description": "Interfaz web que representa la sección de comentarios de una plataforma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-node5": "^12.0.1",
+    "faker": "^4.1.0",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11",
+    "pg": "^7.5.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.39.0"
+  }
+}
